@@ -36,11 +36,11 @@ const maxGirev = {
 <!--END_SECTION:waka-->
 
 <a href="https://github-readme-stats.vercel.app/api?username=sib24bear&hide=contribs&show_icons=true">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sib24bear&hide=contribs&show_icons=true" alt="sib24bear" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sib24bear&hide=contribs&show_icons=true&theme=tokyonight" alt="sib24bear" />
 </a>
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sib24bear&layout=compact">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sib24bear&layout=compact" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sib24bear&layout=compact&theme=tokyonight" />
 </a>
 
 ---
